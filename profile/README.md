@@ -1,1 +1,1 @@
-![Banner for Lunar Mappings Project](https://github.com/Lunar-Mapping-Project/.github/blob/main/assets/banner.png?raw=true)
+![Banner for Lunar Mappings Project](https://raw.githubusercontent.com/Lunar-Mapping-Project/.github/3369e44eea4df641891844436ccd4201360d230f/assets/banner.png)
